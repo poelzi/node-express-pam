@@ -15,7 +15,7 @@ Quick Start (Ubuntu)
 
 3) 'use it!
 ```javascript
-var pam_auth = require('pam-auth');
+var pam_auth = require('express-pam');
 app.use(pam_auth("MySite"));
 ```
 
